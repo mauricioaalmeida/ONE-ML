@@ -83,4 +83,4 @@ Dados:
    - Dist_Praia - Distância do imóvel até a praia (km) (em linha reta)
    - Dist_Farmacia - Distância do imóvel até a farmácia mais próxima (km) (em linha reta)
 
-[Notebook](https://github.com/mauricioaalmeida/ONE-ML/blob/main/RL2_T%C3%A9cnicas_Avan%C3%A7adas.ipynb))
+[Notebook](https://github.com/mauricioaalmeida/ONE-ML/blob/main/RL2_T%C3%A9cnicas_Avan%C3%A7adas.ipynb)
