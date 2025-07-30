@@ -70,7 +70,7 @@ A tarefa envolve conduzir as seguintes etapas:
 
 [Notebook](https://github.com/mauricioaalmeida/ONE-ML/blob/main/Desafio_RL_Energia.ipynb)
 
-## 4. Técnicas Avançadas - Imóveis
+## 4. Técnicas Avançadas - Imóveis no RJ
 O mercado imobiliário vem sendo objeto de diversos estudos e pesquisas nos últimos tempos. A crise financeira que afeta a economia tem afetado significativamente os investimentos e ganhos advindos deste setor. Este cenário incentiva o aumento do interesse por estudos de previsão de demanda baseados em características deste mercado, dos imóveis e do entorno destes imóveis.
 
 Neste contexto o objetivo principal do nosso projeto é desenvolver um sistema de avaliação imobiliária utilizando a metodologia de regressões lineares que é uma das técnicas de machine learning.
@@ -82,3 +82,5 @@ Dados:
    - Area - Área do imóvel em m²
    - Dist_Praia - Distância do imóvel até a praia (km) (em linha reta)
    - Dist_Farmacia - Distância do imóvel até a farmácia mais próxima (km) (em linha reta)
+
+[Notebook](https://github.com/mauricioaalmeida/ONE-ML/blob/main/RL2_T%C3%A9cnicas_Avan%C3%A7adas.ipynb))
